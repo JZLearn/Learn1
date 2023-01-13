@@ -21,6 +21,8 @@ using Microsoft.eShopWeb.Web.Pages;
 using Microsoft.FeatureManagement;
 using Microsoft.IdentityModel.Tokens;
 
+// Change in feature-1
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Logging.AddConsole();

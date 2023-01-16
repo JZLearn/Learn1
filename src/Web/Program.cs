@@ -29,6 +29,7 @@ using Microsoft.IdentityModel.Tokens;
 // Try git hook with blocked word: passowrd
 // try again with password
 // Test hook again
+// Test git hook pre-commit to block work: password
 
 var builder = WebApplication.CreateBuilder(args);
 

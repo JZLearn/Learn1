@@ -26,6 +26,7 @@ using Microsoft.IdentityModel.Tokens;
 // add AB number
 // EDIT again
 // for AB#11 again
+// Try git hook with blocked word: passowrd
 
 var builder = WebApplication.CreateBuilder(args);
 

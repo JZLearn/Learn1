@@ -28,7 +28,7 @@ using Microsoft.IdentityModel.Tokens;
 // for AB#11 again
 // Try git hook with blocked word: passowrd
 // try again with password
-// Test hook 
+// Test hook again
 
 var builder = WebApplication.CreateBuilder(args);
 

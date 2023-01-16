@@ -26,6 +26,11 @@ using Microsoft.IdentityModel.Tokens;
 // add AB number
 // EDIT again
 // for AB#11 again
+// Try git hook with blocked word: passowrd
+// try again with password
+// Test hook again
+// Test git hook pre-commit to block work: password
+// Test git hoo pre-commit to block word: password
 
 var builder = WebApplication.CreateBuilder(args);
 

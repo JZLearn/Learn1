@@ -30,6 +30,7 @@ using Microsoft.IdentityModel.Tokens;
 // try again with password
 // Test hook again
 // Test git hook pre-commit to block work: password
+// Test git hoo pre-commit to block word: password
 
 var builder = WebApplication.CreateBuilder(args);
 

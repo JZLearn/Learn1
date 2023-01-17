@@ -11,6 +11,9 @@
         "INSTALL_AZURE_CLI": "false"
         }
     },
+	"features": {
+  	   "ghcr.io/devcontainers/features/github-cli:1": {}
+        },
 
 	// Comment out to connect as root user. See https://aka.ms/vscode-remote/containers/non-root.
 	// make sure this is the same as USERNAME above
